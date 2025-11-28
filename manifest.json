@@ -2,7 +2,7 @@
   "name": "mObywatel",
   "short_name": "mObywatel",
   "description": "mObywatel",
-  "start_url": "/ap/logowanie.html",
+  "start_url": "/as/logowanie.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
